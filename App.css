@@ -1,0 +1,8 @@
+body {
+  --bg: #f6f7fb;
+  --card: #ffffff;
+  --muted: #6b6b7b;
+  font-family: 'Roboto', sans-serif;
+  background: var(--bg);
+}
+a { text-decoration: none; color: inherit; }
